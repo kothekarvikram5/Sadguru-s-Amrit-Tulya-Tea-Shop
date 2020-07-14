@@ -5,5 +5,5 @@
     
     This is the Deployment ready code for both API and UI for the website.
     
-    Please use 'update-database' in pckage manager console (PM) Window in Visual Studio 
-    to create database snapshot of the database that I used to run the application properly.
+    Please use 'update-database' in package manager console (PM) Window in Visual Studio to create database snapshot 
+    of the database that I used to run the application properly.
